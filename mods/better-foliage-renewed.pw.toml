@@ -1,0 +1,13 @@
+name = "Better Foliage Renewed"
+filename = "BetterFoliageRenewed-NeoForge-1.21-6.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/czNFt8ef/versions/of1dzvXQ/BetterFoliageRenewed-NeoForge-1.21-6.0.jar"
+hash-format = "sha512"
+hash = "f9a8443e52c2c281c8aa770d87da45e2069f0cc910f449f16211d07efedb734378aeb7e6fa9002e513d9de0b975879a102f92e1d8eb5f19159485ea5fe3f1c0f"
+
+[update]
+[update.modrinth]
+mod-id = "czNFt8ef"
+version = "of1dzvXQ"

@@ -1,0 +1,13 @@
+name = "Smooth Skies"
+filename = "smoothskies-2.10.4+1.21.1-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uvlgIwBD/versions/7e7ZtOFh/smoothskies-2.10.4%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "758da9bb533da8df8818fb744a6bf45ac59850565387b39ed0de6fc441d2b241d15010f9a761dd56e9408bc579c73f08c6cdc5a6255d75affd5c93183983d32c"
+
+[update]
+[update.modrinth]
+mod-id = "uvlgIwBD"
+version = "7e7ZtOFh"

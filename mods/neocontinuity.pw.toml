@@ -1,0 +1,13 @@
+name = "NeoContinuity"
+filename = "continuity-3.0.0+0.0.1+1.21.1.neoforge-all.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/t9w23vii/versions/ZORcYr2t/continuity-3.0.0%2B0.0.1%2B1.21.1.neoforge-all.jar"
+hash-format = "sha512"
+hash = "f5c187ce95c60d98ccddc2565bd8c2ae514eb2545a26113347a1dc87f16b1d9e38175fbc01322d89e026e06bad3b39678675ae37b72a484bdc50db7ace1ea41a"
+
+[update]
+[update.modrinth]
+mod-id = "t9w23vii"
+version = "ZORcYr2t"

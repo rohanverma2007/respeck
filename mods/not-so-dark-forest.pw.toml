@@ -1,0 +1,13 @@
+name = "Not So Dark Forest"
+filename = "Not-So-Dark-Forest-mod-v1.0.71+mc1.20.3-1.21.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/p1RuZXHR/versions/QMpp4DCU/Not-So-Dark-Forest-mod-v1.0.71%2Bmc1.20.3-1.21.5.jar"
+hash-format = "sha512"
+hash = "24813971704c5e9ff6f757db32d7dd06941c07c6f9e35469185b1430dfe57ab01d0de6f41002073a25684406d655a133fe6fca5a478ffa66aefbfa22e81b8c49"
+
+[update]
+[update.modrinth]
+mod-id = "p1RuZXHR"
+version = "QMpp4DCU"

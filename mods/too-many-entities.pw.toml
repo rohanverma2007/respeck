@@ -1,0 +1,13 @@
+name = "Too Many Entities"
+filename = "Too Many Entities 1.21.1 NeoForge v1.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BvnRxzIF/versions/EhFzckYu/Too%20Many%20Entities%201.21.1%20NeoForge%20v1.2.0.jar"
+hash-format = "sha512"
+hash = "6be43900c3b9b467af362fdedfa36466772dede8e8e0323204cf357a74a42699f34ceb49b07c60f064496853787d20f2fb9542b3638848635550298e63d444f2"
+
+[update]
+[update.modrinth]
+mod-id = "BvnRxzIF"
+version = "EhFzckYu"

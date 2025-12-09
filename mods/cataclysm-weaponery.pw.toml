@@ -1,0 +1,13 @@
+name = "Cataclysm Weaponery"
+filename = "cataclysm_weaponery-3.0.0-neoforge-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/S5OkaSK0/versions/WzymjSBK/cataclysm_weaponery-3.0.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "96022de7bf769d712cd38d621b20ee7d43953c0358ea322720990c4596412d0cf1410e312efde4340049b554e9becccc5894339be13f7a655d121a4a9a1efc29"
+
+[update]
+[update.modrinth]
+mod-id = "S5OkaSK0"
+version = "WzymjSBK"

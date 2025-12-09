@@ -1,0 +1,13 @@
+name = "TerraBlenderFix"
+filename = "terrablenderfix-neoforge-1.21.1-0.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/t2pgJYye/versions/mj0Dc8K5/terrablenderfix-neoforge-1.21.1-0.0.1.jar"
+hash-format = "sha512"
+hash = "b54de742dec0d9227b1ac805f749850376a5ef89fc3d7370ab85ec96c509e63e00fc26c94eb56b91cbdd4408a01ac83b4b1571080c7dfa5fb2b0a71fe6a05c2d"
+
+[update]
+[update.modrinth]
+mod-id = "t2pgJYye"
+version = "mj0Dc8K5"

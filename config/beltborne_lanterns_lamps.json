@@ -1,0 +1,12 @@
+{
+  "extraLampLight": [
+    {
+      "id": "minecraft:lantern",
+      "luminance": 15
+    },
+    {
+      "id": "minecraft:soul_lantern",
+      "luminance": 10
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+name = "Graphene"
+filename = "!!!Graphene-2.1.1-1.21-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rmZ2S4Yi/versions/tJWeR9F1/%21%21%21Graphene-2.1.1-1.21-1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "b95d94e861ed79479eb880a096a6cc59a616aed57718f924b3cf631257097f1b4047ec2261d52402f50549bf0ca56121c68b05872f7f1c6b4d828d19c00479a5"
+
+[update]
+[update.modrinth]
+mod-id = "rmZ2S4Yi"
+version = "tJWeR9F1"

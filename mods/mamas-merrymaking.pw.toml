@@ -1,0 +1,13 @@
+name = "Mama's MerryMaking"
+filename = "merrymaking-1.21.1-6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YZVjGvIY/versions/CHpTQc0h/merrymaking-1.21.1-6.jar"
+hash-format = "sha512"
+hash = "57ec5ea0d5ddeb6f5b73d9eb1838beaaa186538f1b56b37f23d81c4ad215fed0b5669aaaeb8436f2e9b335dd1690c17c23179a0d1495ba8fefc7676ea1a27270"
+
+[update]
+[update.modrinth]
+mod-id = "YZVjGvIY"
+version = "CHpTQc0h"

@@ -1,0 +1,13 @@
+name = "CreateBetterFps"
+filename = "createbetterfps-1.21.1-1.1.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lMYIHZNH/versions/fXfWOQ16/createbetterfps-1.21.1-1.1.3.jar"
+hash-format = "sha512"
+hash = "fa823eaa1a274c492045d625a0470dd0cbfb7b8b14c3fa9a80a02ee023550f01e7818daf417fa6d3e8e021469df6a90cee98269df3e516c9d2cb27f06f93170b"
+
+[update]
+[update.modrinth]
+mod-id = "lMYIHZNH"
+version = "fXfWOQ16"

@@ -1,0 +1,13 @@
+name = "Respeck"
+author = "Rohan Verma"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0450ffa161e58a72ec3c88fb4df40e4b6c375994e28fc8f9b4abf487c1480b2d"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.216"

@@ -1,0 +1,13 @@
+name = "Satisfying Buttons"
+filename = "satisfying_buttons-neoforge-1.1.2-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Zf8HMFM5/versions/EssE56Wf/satisfying_buttons-neoforge-1.1.2-1.21.1.jar"
+hash-format = "sha512"
+hash = "99f8392b55da724b6ec477200664e92109a89639a2c01a991b378310fd6c9910250d87c53910b9deea6f905e23c2360a4c7069614a9b3cacdaf872a04adb0389"
+
+[update]
+[update.modrinth]
+mod-id = "Zf8HMFM5"
+version = "EssE56Wf"

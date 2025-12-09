@@ -1,0 +1,13 @@
+name = "Shut Up GL Error"
+filename = "shut_up_gl_error-neoforge-2.0.0+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/houIxdGF/versions/ZBew9Akz/shut_up_gl_error-neoforge-2.0.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "327811f96d219655a141e72e51226425d671a5890079264dcd1b933f326f30b8dde17ce593ab10fca523221e76273c6939835a4cc7a397bfe5d7f3fe8cf6f32d"
+
+[update]
+[update.modrinth]
+mod-id = "houIxdGF"
+version = "ZBew9Akz"

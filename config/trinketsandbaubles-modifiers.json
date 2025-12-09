@@ -1,0 +1,14 @@
+{
+  "modifiableItems": {
+    "artifacts:cross_necklace": {
+      "requiredItem": "trinketsandbaubles:glowing_ingot",
+      "experienceCost": 5,
+      "materialCost": 1
+    },
+    "artifacts:feral_claws": {
+      "requiredItem": "trinketsandbaubles:glowing_ingot",
+      "experienceCost": 5,
+      "materialCost": 1
+    }
+  }
+}

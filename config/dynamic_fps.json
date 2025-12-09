@@ -1,0 +1,7 @@
+{
+  "states": {
+    "unfocused": {
+      "run_garbage_collector": true
+    }
+  }
+}

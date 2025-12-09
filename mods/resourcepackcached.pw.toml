@@ -1,0 +1,13 @@
+name = "ResourcePackCached"
+filename = "rpc-1.2.3+1.20.5-1.21.4-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/d4phKsx2/versions/8G2ryfNP/rpc-1.2.3%2B1.20.5-1.21.4-neoforge.jar"
+hash-format = "sha512"
+hash = "dad13da404465ff4b55105d12fb392c662ff32c9f48eaeb33abfa33474f3c795f1c59b01dbb8a1c82bc480ba9c0e013aeedecd9077cefb0339297d5f3e8fb06b"
+
+[update]
+[update.modrinth]
+mod-id = "d4phKsx2"
+version = "8G2ryfNP"
