@@ -1316,6 +1316,11 @@ hash = "9716d15e12bf3d030d9655176cc66f8a336560e3f445bc0f4825d70dc4ef6247"
 metafile = true
 
 [[files]]
+file = "mods/betterdays.pw.toml"
+hash = "4677083f864734b0e6895fbb58036503f6ff4e2a10f0f2346338b380cd095495"
+metafile = true
+
+[[files]]
 file = "mods/betterfpsdist-1.21-6.0.jar"
 hash = "92fda56743cacb8b00e5c5e1910979cde1a39fb753a4f22310d69b23d6c9ec73"
 
@@ -1475,6 +1480,11 @@ hash = "1c6be21218ec18cf0165bf34b1e4be88a4378a31492474ecfe090467c81cacd4"
 metafile = true
 
 [[files]]
+file = "mods/create-shimmer.pw.toml"
+hash = "68eff35277384688a894de341a5fb02cb887c8da3f2d2fdd4f3e65bd2f7d4fea"
+metafile = true
+
+[[files]]
 file = "mods/create-smart-bounds.pw.toml"
 hash = "32acd3454a33a92d00fb098a954dfbec1618916e92561f0e577c900f8a52c8b3"
 metafile = true
@@ -1487,6 +1497,11 @@ metafile = true
 [[files]]
 file = "mods/create-stone-generators.pw.toml"
 hash = "0ebdbdee8710ae1f902ecd87f0b3fd4a8899c62707438cd461823e4dd33c4853"
+metafile = true
+
+[[files]]
+file = "mods/create-trading-floor.pw.toml"
+hash = "6d3f09ad9769a68ef7e5b45f3bbdf7a6b0aca893a7311a86da0fb42b34ba8f7a"
 metafile = true
 
 [[files]]
@@ -1986,6 +2001,21 @@ file = "mods/refurbished_furniture-neoforge-1.21.1-1.0.20.jar"
 hash = "d2fad0e9f710de93c247cdc79e6eb486ccb4b6cdc55e29a2373f54cb6900f0ac"
 
 [[files]]
+file = "mods/relics-mod.pw.toml"
+hash = "491b4e103152cbf45f84c49672e4a942202f96acd4a8dfee4976f4b447fcf8c1"
+metafile = true
+
+[[files]]
+file = "mods/reliquified-l-ender-s-cataclysm.pw.toml"
+hash = "ff5afd5570a5a3d921c7764d0c64f82eb0c87c7e2e3db3e53aa45d6b6b4edc47"
+metafile = true
+
+[[files]]
+file = "mods/reliquified-twilight-forest.pw.toml"
+hash = "13fffb230d17396a7a6f3dc78e3476def88102581d67b919261c40d2f233e6db"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "c1c0115c6c624471c08f94ca065bd6876505591df7eabde099a4868cf6397a13"
 metafile = true
@@ -2121,6 +2151,11 @@ hash = "9ebb7dd27a63c6690b8a0a0ec57510e81e11b2009a3d0eaa9f0d0b9ea32ddd4a"
 metafile = true
 
 [[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "bbd1d4b8b1562f98c9247a29de80b0ba5447dda5b549a8b4ee732c38925b784b"
+metafile = true
+
+[[files]]
 file = "mods/toms-peripherals.pw.toml"
 hash = "5340d554bac2e3d3393fcaffb8a2d8597743a69b58acc808373222c571147ad2"
 metafile = true
@@ -2138,6 +2173,16 @@ metafile = true
 [[files]]
 file = "mods/trinkets-and-baubles-reforked.pw.toml"
 hash = "924c8f229d666a231ef98fc4e48587f0914d2773359c88c64593150ab214f774"
+metafile = true
+
+[[files]]
+file = "mods/twilight-delight.pw.toml"
+hash = "9b0fb11d1ebec39f9ca9c212282b5813c43d73769eccd06ef256779e302b4637"
+metafile = true
+
+[[files]]
+file = "mods/twilight-forest-the-lost-blocks.pw.toml"
+hash = "83c6eeec020e6636053b86dc8a068258bb1f87a262162904c900708cedbc00ba"
 metafile = true
 
 [[files]]
