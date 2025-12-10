@@ -2001,21 +2001,6 @@ file = "mods/refurbished_furniture-neoforge-1.21.1-1.0.20.jar"
 hash = "d2fad0e9f710de93c247cdc79e6eb486ccb4b6cdc55e29a2373f54cb6900f0ac"
 
 [[files]]
-file = "mods/relics-mod.pw.toml"
-hash = "491b4e103152cbf45f84c49672e4a942202f96acd4a8dfee4976f4b447fcf8c1"
-metafile = true
-
-[[files]]
-file = "mods/reliquified-l-ender-s-cataclysm.pw.toml"
-hash = "ff5afd5570a5a3d921c7764d0c64f82eb0c87c7e2e3db3e53aa45d6b6b4edc47"
-metafile = true
-
-[[files]]
-file = "mods/reliquified-twilight-forest.pw.toml"
-hash = "13fffb230d17396a7a6f3dc78e3476def88102581d67b919261c40d2f233e6db"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "c1c0115c6c624471c08f94ca065bd6876505591df7eabde099a4868cf6397a13"
 metafile = true
