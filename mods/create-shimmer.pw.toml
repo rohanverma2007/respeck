@@ -1,0 +1,13 @@
+name = "Create: Shimmer"
+filename = "create-shimmer-1.2.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/d7tBNLJP/versions/YGFtUrs7/create-shimmer-1.2.6.jar"
+hash-format = "sha512"
+hash = "380bd7d9b85e73ea11f5e8bc8d6aa7e8af4ab17d9b491c32d0e83126f333a263cbc16f38680868a1ca213cd9ab381c7c698f95e8896eb85751071612ea2796da"
+
+[update]
+[update.modrinth]
+mod-id = "d7tBNLJP"
+version = "YGFtUrs7"
