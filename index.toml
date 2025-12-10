@@ -2213,6 +2213,11 @@ hash = "746b5a692997b6b51651e364fb11c546c2aed181e6fcf98ab4c8f709e04509f3"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
+hash = "17f9f28d4a141165ca4b615b89f941cdaea5da3941cf7afe3ccb57aef93895b1"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "dffcebe24bb99c66172fbe18b9f7d4836f0291df98a8d999bd2f5cc7f73f79f3"
 metafile = true
