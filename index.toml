@@ -518,7 +518,7 @@ hash = "8659881d7f689828d39e36508460e771b4ed6e28013d24d46e0d058e188029fd"
 
 [[files]]
 file = "config/emi.css"
-hash = "a08ebb09c02a1632495c1e2296bd0faee611a68b6518b089117cd6f034d1cc6d"
+hash = "9d15f91c3133ceacbce1059fee4aafec7e00e657b5d4c825d6c163a74db4cb0d"
 
 [[files]]
 file = "config/emotecraft.json"
@@ -738,7 +738,7 @@ hash = "251c94baa161629fa43a0d3ca07dee97b64886589fb4a64c747a93378d19cb74"
 
 [[files]]
 file = "config/jei/jei-client.ini"
-hash = "f6841387ba118885299e6fe6574daaa62ad5adcf4e73f851ec2e9f8977ea066d"
+hash = "cbccea83ed9aa82e04a7c49a5192799364c8806f1bc43d1f72cfcc610072f6d6"
 
 [[files]]
 file = "config/jei/jei-colors.ini"
