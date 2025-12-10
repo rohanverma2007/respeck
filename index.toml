@@ -1712,11 +1712,6 @@ hash = "9bea3782285e9dafcccd88d817ab4a6505400955b5343f1b6df16fa29122c410"
 metafile = true
 
 [[files]]
-file = "mods/iceberg.pw.toml"
-hash = "738224cd2c3b8ca3265e444094711e5fd7ae81689a7df77b7c59b3beff43d700"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "13fbb52e608aa8da64456aaacef6f8011510a38e540acbddb497ec94250d676b"
 metafile = true
@@ -1739,11 +1734,6 @@ metafile = true
 [[files]]
 file = "mods/inventory-essentials.pw.toml"
 hash = "e06a88141ff4047dfd09c49320c8cf7540e9f46d832dac494198146382285604"
-metafile = true
-
-[[files]]
-file = "mods/item-highlighter.pw.toml"
-hash = "a7c6846292d4f3963062b60af2317a474dfc9df51502bf054a659aaa1e2c5bd6"
 metafile = true
 
 [[files]]
