@@ -1226,8 +1226,9 @@ hash = "2718b0d0ed213420700bb6d35c3ee9becac9af22ab34b7fb697f527d3114ed37"
 metafile = true
 
 [[files]]
-file = "mods/alltheleaks-1.1.3+1.21.1-neoforge.jar"
-hash = "c6e744cf9d6fcb2592fb221f9bd02cddacf08ef752f118d87a4178ead75262c7"
+file = "mods/alltheleaks.pw.toml"
+hash = "49dedd58a30df8112ca9922789f05726a7775fdc58ef626b05894aad8cfcbea0"
+metafile = true
 
 [[files]]
 file = "mods/ambient-environment.pw.toml"
@@ -1420,7 +1421,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-deco.pw.toml"
-hash = "89f97fb828d7666c2c049e1b47d0f04dbb19a2b954e58047335b0b7e3a84b1f3"
+hash = "b6a96c5ca32349b73df3dc7f91083d2b365c0065f8022fee7020f3ae39900888"
 metafile = true
 
 [[files]]
@@ -1717,7 +1718,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "64247a4bc1c7b7e696f8138d8551277a66c1060b3756dbe270d2497622f8a0e0"
+hash = "13fbb52e608aa8da64456aaacef6f8011510a38e540acbddb497ec94250d676b"
 metafile = true
 
 [[files]]
@@ -2116,7 +2117,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "cd74c9fd5ae3e04cb0cf88a2446f4286b02226cdaa35a513392f0fb20d3e72bc"
+hash = "2632cdb92a41c1c8fe4eb6d4a76deb9febb62c9e62cb9d91ad9794e42829f7c8"
 metafile = true
 
 [[files]]
