@@ -1069,14 +1069,6 @@ file = "config/utility_belt.json5"
 hash = "ecdca361cbe18f747af3e383aa73d4e30636b898cc47c31e2a703e3624d3e9cb"
 
 [[files]]
-file = "config/vanillabackport-client.toml"
-hash = "021c02aec7ffcc09d811a218f274f47062eaf77d8ae4ac9ac0897839a88161fa"
-
-[[files]]
-file = "config/vanillabackport-common.toml"
-hash = "3674342d7bcac4fe16dfea2579f34d18e90d7b218e0e103a6b35959dad5ef01f"
-
-[[files]]
 file = "config/vanillin-client.toml"
 hash = "1a819dc4f26f96726296ebd354d081f6ee83d2f5678a6d94658cefd17c03bc6d"
 
