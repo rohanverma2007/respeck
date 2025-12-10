@@ -818,7 +818,7 @@ hash = "72ca2bcea2a9946a3a54842f14eff6f7b47d8fc96ef497c1b56406643b153fd7"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "127aad30df6b95c1a40c0877ec0f97b6739d3018a9287bf700fd61004183b71c"
+hash = "0b38de5136558f25c56b708bbc999852310721873e4c51f58b200894ee1cf12b"
 
 [[files]]
 file = "config/mods_optimizer/config.toml"
@@ -1623,21 +1623,6 @@ metafile = true
 [[files]]
 file = "mods/explosive-enhancement-forge.pw.toml"
 hash = "586ae7912a08e5d51744b5c268b51def9ad6c1dd643c373e86d762991de84238"
-metafile = true
-
-[[files]]
-file = "mods/exposure-expanded.pw.toml"
-hash = "c16b45f2f3cc048b1698b01573e79f0a7ac73af6f807650f9bd34fa2c42c85b7"
-metafile = true
-
-[[files]]
-file = "mods/exposure-polaroid.pw.toml"
-hash = "7b7ea496161f234e612ae2c9c11b2dc58b46cb60482fd2a045f53d121f4405fc"
-metafile = true
-
-[[files]]
-file = "mods/exposure.pw.toml"
-hash = "bb007e296a5a153d9604266f51f948866dda4d9a47c4ae4e6ecddbed9269c2b1"
 metafile = true
 
 [[files]]
