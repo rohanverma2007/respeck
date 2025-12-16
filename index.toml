@@ -398,7 +398,7 @@ hash = "4554d0df9a25e4f58c07df938806bb435fa2556263b60537bcd8f3f3cd28f1c3"
 
 [[files]]
 file = "config/create-client.toml"
-hash = "e20f6769fd946b918f24cfd54a422a599faa43394ee9a33012e645102a366da3"
+hash = "df7ce62647f75fb1fc75a0edff62469baf60fed420005862e1026816166b6da4"
 
 [[files]]
 file = "config/create-common.toml"
@@ -887,6 +887,10 @@ hash = "e3e97ee4650175b5fc5d4f8c064173b5cc35dd5f4ef15962dbc360cc702cec5f"
 [[files]]
 file = "config/terrablender.toml"
 hash = "94e3dfb24b7b1b4261bc54d775261bc4cef769984f437722707e9a64e1b2c173"
+
+[[files]]
+file = "config/toadlib_config.txt"
+hash = "ecea1719e47d881d73b91e262004226abfc74a56874925ae33755c104a04f6f0"
 
 [[files]]
 file = "config/toms_peripherals-common.toml"
@@ -1490,6 +1494,11 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "9bea3782285e9dafcccd88d817ab4a6505400955b5343f1b6df16fa29122c410"
+metafile = true
+
+[[files]]
+file = "mods/horseman.pw.toml"
+hash = "c973936c8b9750daf0296baa21befb407640a186ec4eb433be840d1dddccc5a3"
 metafile = true
 
 [[files]]
