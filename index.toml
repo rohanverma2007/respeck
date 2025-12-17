@@ -1697,11 +1697,6 @@ hash = "ece7ba63f94915c083a34cbb9397441b34a2a24647b6cc6e052d3058a49e7225"
 metafile = true
 
 [[files]]
-file = "mods/playeranimator.pw.toml"
-hash = "3b1dea2804fdbdb0ad60908c501d95f4fb332769bab2efcb6e0f320b8cc14042"
-metafile = true
-
-[[files]]
 file = "mods/prickle.pw.toml"
 hash = "98341e9765f45c38727a53e93600dbc25c678cf740a4a398e723fb07d5f49fcc"
 metafile = true
