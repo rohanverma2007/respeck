@@ -1,0 +1,13 @@
+name = "Ready Player Fun"
+filename = "readyplayerfun-1.21.1-3.0.1.3-NEOFORGE.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/AwiAYDUq/versions/GQtnrIVG/readyplayerfun-1.21.1-3.0.1.3-NEOFORGE.jar"
+hash-format = "sha512"
+hash = "f1630765bec9268f8e6743d750de0a99afdce237ffe8e953956148094df0c83c77af4177a963a6b1f79dbf597b6832e5967dc946f1c09f40f084a3aeb1cf919d"
+
+[update]
+[update.modrinth]
+mod-id = "AwiAYDUq"
+version = "GQtnrIVG"

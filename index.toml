@@ -1712,6 +1712,11 @@ hash = "189f38ed3a5f449bb701fc3b8ad4e42c7302c643ac078d739fc8abcbde4723a0"
 metafile = true
 
 [[files]]
+file = "mods/ready-player-fun.pw.toml"
+hash = "3fb8b007401a0e85d8826c0b800c9f4cc39cf365bafa4edb65a08bb8a58563c4"
+metafile = true
+
+[[files]]
 file = "mods/redirected.pw.toml"
 hash = "88110d2ada2261945e7594f0ab5740b5b0ec9d003684ec23d2bc2b5c50b04864"
 metafile = true
