@@ -1080,6 +1080,11 @@ hash = "3578e7b5146ce303b6a0992df32c99c79c6b67bc42892253c5ff95be014eba1a"
 metafile = true
 
 [[files]]
+file = "mods/be-quiet-negotiator.pw.toml"
+hash = "4ad8a6ad76922051ea92a1c0f61b9a2a7d28eb6ed04b4c7d131de70da25ab77e"
+metafile = true
+
+[[files]]
 file = "mods/beautify.pw.toml"
 hash = "12d9da5369e396109b363cca4b3b3c84bf59789a0e867c7e2ea7d7ca38528722"
 metafile = true
